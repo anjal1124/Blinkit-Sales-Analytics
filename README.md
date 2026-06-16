@@ -71,7 +71,7 @@ The dashboard provides valuable insights into Blinkit's sales performance, outle
 **Anjali Yadav**
 
 📧 Email: yadavanjaliyadav1124@gmail.com
-🔗 LinkedIn: linkedin.com/in/anjali-yadav-130628415
+🔗 LinkedIn: https://linkedin.com/in/anjali-yadav-130628415
    
 
 💻 GitHub: https://github.com/anjal1124/Blinkit-Sales-Analytics.git
