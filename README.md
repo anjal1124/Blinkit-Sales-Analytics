@@ -74,4 +74,4 @@ The dashboard provides valuable insights into Blinkit's sales performance, outle
 🔗 LinkedIn: linkedin.com/in/anjali-yadav-130628415
    
 
-💻 GitHub: https://github.com/anjali1124
+💻 GitHub: https://github.com/anjal1124/Blinkit-Sales-Analytics.git
