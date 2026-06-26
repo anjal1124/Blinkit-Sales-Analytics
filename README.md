@@ -59,6 +59,12 @@ Blinkit Grocery Sales Dataset
 
 
 ---
+Project Demo
+
+Watch the complete dashboard walkthrough on YouTube: 
+https://youtu.be/gjq6QXPIfZQ
+
+---
 
  Project Outcome=>
 
